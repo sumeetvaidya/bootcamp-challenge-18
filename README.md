@@ -16,19 +16,19 @@ The program is run in streamlit. Run command: streamlit run pychain.py
 <br/>
 
 ## Results
-<br/>
-* Adding a block
+
+### Adding a block
 <img width="847" alt="Screen Shot 2022-01-22 at 5 44 07 PM" src="https://user-images.githubusercontent.com/17937188/150658191-bc877d0a-4548-49ba-9170-7e650dea9825.png">
 
 
-* Results of added blocks
+### Results of added blocks
 <img width="1433" alt="Screen Shot 2022-01-22 at 5 43 27 PM" src="https://user-images.githubusercontent.com/17937188/150658176-374d4984-8e9a-4b19-b004-b32abd59cc02.png">
 
-* Verification of a block
+### Verification of a block
 
 <img width="332" alt="Screen Shot 2022-01-22 at 5 43 53 PM" src="https://user-images.githubusercontent.com/17937188/150658202-43cca06f-4448-4203-9b5c-b16adf7c5e2c.png">
 
-* Console Output of verification of a block
+### Console Output of verification of a block
 <img width="676" alt="Screen Shot 2022-01-22 at 5 44 37 PM" src="https://user-images.githubusercontent.com/17937188/150658228-a226a170-38b2-40bb-a028-bbacb2d26fe2.png">
 
 
